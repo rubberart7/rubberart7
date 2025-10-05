@@ -4,15 +4,14 @@
 
 ## 🧠 About Me:
 
-I'm a Computer Science student at Drexel University, passionate about **AI, software engineering, and full-stack development**.  
-I enjoy creating impactful projects that combine creativity, data, and intelligent systems — from **AI-powered applications** to **modern web platforms** built with tools like React and Next.js.
+I am a Computer Science student with a strong interest in building scalable applications and AI-powered solutions. My experience includes a research co-op at Drexel University’s College of Computing and Informatics, where I contributed to launching the AI-Atelier research lab, developed educational resources on generative AI, and collaborated with a team to design hands-on courses. I have also developed full-stack platforms using tools such as Next.js, React, Express, Flask, and PostgreSQL, focusing on user-centered design, secure authentication, and intelligent system integration. I enjoy combining creativity with technical problem-solving and I am eager to contribute to impactful projects where innovation and collaboration drive success.
 
 ---
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miraj-yafi-9a845a2b4/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://main-portfolio-website-topaz.vercel.app/)
 
 ---
 
