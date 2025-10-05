@@ -4,7 +4,7 @@
 
 ## 🧠 About Me:
 
-I am a Computer Science student with a strong interest in building scalable applications and AI-powered solutions. My experience includes a research co-op at Drexel University’s College of Computing and Informatics, where I contributed to launching the AI-Atelier research lab, developed educational resources on generative AI, and collaborated with a team to design hands-on courses. I have also developed full-stack platforms using tools such as Next.js, React, Express, Flask, and PostgreSQL, focusing on user-centered design, secure authentication, and intelligent system integration. I enjoy combining creativity with technical problem-solving and I am eager to contribute to impactful projects where innovation and collaboration drive success.
+I am a Computer Science student with a strong interest in technology, ranging from software engineering and AI development to systems and IT solutions. My experience includes a research co-op at Drexel University’s College of Computing and Informatics, where I contributed to launching the AI-Atelier research lab, developed educational resources on generative AI, and collaborated with a team to design hands-on courses. I have also developed full-stack platforms using tools such as Next.js, React, Express, Flask, and PostgreSQL, focusing on usability, security, and intelligent integration. I enjoy combining creativity with technical problem-solving and am eager to contribute to innovative and high-impact projects across diverse areas of technology.
 
 ---
 
@@ -15,7 +15,7 @@ I am a Computer Science student with a strong interest in building scalable appl
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Technical Skills:
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,3 +51,8 @@ I am a Computer Science student with a strong interest in building scalable appl
 
 ---
 
+### **Operating Systems**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
