@@ -4,7 +4,7 @@
 
 ## 🧠 About Me:
 
-I am a Computer Science student with a strong interest in software engineering, AI development, data science, IT solutions, and other areas of tech. My experience includes a research co-op at Drexel University’s College of Computing and Informatics, where I contributed to launching the AI-Atelier research lab, developed educational resources on generative AI, and collaborated with a team to design hands-on courses. I have also developed full-stack platforms using tools such as Next.js, React, Express, Flask, and PostgreSQL, focusing on usability, security, and intelligent systems integration. I enjoy combining creativity with technical problem-solving and am eager to contribute to innovative and high-impact projects across diverse areas of technology.
+I am a Computer Science student with a strong interest in software engineering, AI development, data science, IT solutions, and other areas of technology. My experience includes a research co-op at Drexel University’s College of Computing and Informatics, where I contributed to launching the AI-Atelier research lab, developed educational resources on generative AI, and collaborated with a team to design hands-on courses. I have also developed full-stack platforms using tools such as Next.js, React, Express, Flask, and PostgreSQL, focusing on usability, security, and intelligent systems integration. I enjoy combining creativity with technical problem-solving and am eager to contribute to innovative and high-impact projects across diverse areas of technology.
 
 ---
 
