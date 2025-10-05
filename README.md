@@ -15,7 +15,7 @@ I am a Computer Science student with a strong interest in building scalable appl
 
 ---
 
-## 💻 Technical Skills:
+## 💻 Tech Stack:
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,8 +51,3 @@ I am a Computer Science student with a strong interest in building scalable appl
 
 ---
 
-### **Operating Systems**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
