@@ -15,7 +15,7 @@ I am a Computer Science student with a strong interest in building scalable appl
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Technical Skills:
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
