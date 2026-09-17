@@ -4,7 +4,13 @@
 
 ## 🧠 About Me:
 
-I am a Computer Science student with a strong interest in software engineering, AI development, data science, IT solutions, and other areas of technology. My experience includes a research co-op at Drexel University’s College of Computing and Informatics, where I contributed to launching the AI-Atelier research lab, developed educational resources on generative AI, and collaborated with a team to design hands-on courses. I have also developed full-stack platforms using tools such as Next.js, React, Express, Flask, and PostgreSQL, focusing on usability, security, and intelligent systems integration. I enjoy combining creativity with technical problem-solving and am eager to contribute to innovative and high-impact projects across diverse areas of technology.
+I am a Computer Science student at Drexel University passionate about building scalable, high-performing software by combining robust full-stack development, automated testing, and practical AI applications.
+
+My background spans enterprise QA automation and AI research. As a QA Automation Engineer Co-Op at WebstaurantStore, I developed reusable end-to-end automated test suites using C#, .NET, and Selenium, validating system reliability across UI, API, and database layers for high-volume platforms. As an AI Research Co-Op at Drexel’s AI-Atelier lab, I designed hands-on course material on Generative AI and application development, synthesizing research on video and sound restoration models while leading content reviews across teams.
+
+Beyond my co-ops, I build full-stack web applications using Next.js, React, Express, and PostgreSQL, frequently integrating different APIs to build intelligent features like automated resume analysis.
+
+Whether designing scalable backend services, engineering resilient automated testing suites, or integrating LLMs and APIs, I thrive on turning complex technical challenges into clean, production-ready solutions.
 
 ---
 
